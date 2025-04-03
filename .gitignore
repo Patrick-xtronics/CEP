@@ -1,0 +1,11 @@
+# Ignorar diretórios de compilação
+/bin/
+/dist/
+
+# Ignorar arquivos de configuração do IDE
+.classpath
+.project
+.settings/
+
+# Ignorar bibliotecas externas
+/lib/
